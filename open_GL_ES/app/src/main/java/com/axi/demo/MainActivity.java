@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         textView=findViewById(R.id.text);
+        textView.setText("taylor swift");
+        textView.setTextColor(0X00667788);
 
     }
 }
