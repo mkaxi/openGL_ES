@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">open_gl_es</string>
     <string name="user_name">open_gl_es</string>
+    <string name="user_pwd">open_gl_es</string>
 </resources>
